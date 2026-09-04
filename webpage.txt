@@ -1,0 +1,2 @@
+Visit us at https://www.example.com or follow our blog at http://blog.example.com/page.
+Also check our secure site: https://secure.example.org.
